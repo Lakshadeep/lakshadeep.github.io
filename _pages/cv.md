@@ -11,30 +11,60 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Electronics and Communication Engineering, National Institute of Technology, Goa, India, 2015
+* M.S. in Autonomous Systems, Hochschule Bonn Rhein Sieg, Germany, 2019
+* Ph.D in Smooth and efficient manipulation on mobile robots using temporal integration, University of Southern Denmark, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Current: PhD student
+  * [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark [academicpages template]
+  * Duties included: Research and development of robot for cleaning cafeteria tables
+  * Supervisor: Prof. Norbert Kruger, Aljaz Kramberger, Thorbjørn Mosekjær Iversen
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer and Fall 2020: Research Assistant
+  * [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
+  * Duties included: Research and development of drink serving and plant watering robot
+  * Supervisor: Prof. Norbert Kruger, Oskar Palinko
+
+* Fall 2018, Summer 2019 and Fall 2019: Research Staff
+  * [Autonomous Systems group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+  * Duties included: Research and development of topological navigation for indoor robots using semantic map
+  * Supervisor: Prof. Erwin Prassler, Nico Huebel, Sebastian Bluemanthal, Prof. Herman Bruyninckx 
+
+* Fall 2017 and Summer 2018: Student Research Assistant
+  * [Autonomous Systems group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+  * Duties included: Research and development of semantic mapping using OpenStreetMap for indoor robot navigation
+  * Supervisor: Prof. Erwin Prassler, Nico Huebel, Sebastian Bluemanthal, Prof. Herman Bruyninckx 
+
+* Summer and Fall 2016: Project Assistant
+  * National Institute of Oceanography, Goa, India
+  * Duties included: Software development for autonomous marine robots
+  * Supervisor: Pramod Kumar Maurya
+
+* Fall 2015: Software Developer
+  * Vacation Labs
+  * Duties included: Backend development using Ruby on Rails
+<!--   * Supervisor: Saurabh Nanda -->
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robotics
+  * Vision
+  * Navigation
+  * Human-robot interaction
+* Programming languages
+  * C++
+  * Python
+* Software development tools
+  * Git
+  * Docker
+* Middlewares
+  * ROS
+* AI libraries
+  * PyTorch
 
 Publications
 ======
@@ -54,6 +84,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
