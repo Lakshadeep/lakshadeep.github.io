@@ -1,14 +1,17 @@
 ---
 title: "Deep Neural Networks - Fall 2021"
 collection: teaching
-type: "Graduate course"
+type: "Masters course"
 permalink: /teaching/2021-fall-teaching-3
-venue: "Faculty of Engineering, University of Soutthern Denmark, SDU"
-date: 2020-08-26
+venue: "Faculty of Engineering, University of Southern Denmark, SDU"
+date: 2021-09-05
 location: "Odense, Denmark"
 ---
+with Assc. Prof. Dr. Anders Buch
 
-Teaching Assistant
+My role: Tutor, responsible for conducting 10 exercise sessions. Each session 
+involved introducing a problem related to the deep learning concept introduced 
+earlier in the class and then assisting students in solving those exercises.
 
 <!-- Heading 1
 ======
