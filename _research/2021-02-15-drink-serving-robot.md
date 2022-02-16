@@ -1,7 +1,7 @@
 ---
 title: "An interactive drink serving robot"
 excerpt: "This research focused on developing an interactive service robot that can be deployed in real world environments along with the social acceptance."
-collection: portfolio
+collection: research
 ---
 We developed an autonomous interactive drink serving robot or use in public spaces and at social events. The proposed system design focuses on finding the balance between technological readiness and social readiness levels thus enabling a technology that can be deployed in real-world environments along with social acceptance.
 

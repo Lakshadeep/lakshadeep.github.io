@@ -1,7 +1,7 @@
 ---
 title: "Semantic world modelling using OpenStreetMap"
 excerpt: "This research explored how digital navigation maps such as OpenStreetMap can be used for indoor robot navigation"
-collection: portfolio
+collection: research
 ---
 See our ICRA 2019 paper for more details:
 
