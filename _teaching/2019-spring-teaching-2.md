@@ -3,7 +3,7 @@ title: "Robots and Autonomous Systems - Spring 2019"
 collection: teaching
 type: "Bachelors course"
 permalink: /teaching/2019-spring-teaching-1
-venue: "Hochschule Bonn Rhein Sieg, Department of Computer Science"
+venue: "Department of Computer Science, Hochschule Bonn Rhein Sieg"
 date: 2019-04-01
 location: "Sankt Augustin, Germany"
 ---
