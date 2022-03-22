@@ -9,7 +9,7 @@ location: "Odense, Denmark"
 ---
 with Prof. Dr. Norbert Kruger
 
-My role: Tutor
+My role: Presentation of exercises, supervision of exercises and lecturing on Deep Neural Networks
 
 
 <!-- Heading 1

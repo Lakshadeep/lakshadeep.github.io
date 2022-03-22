@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi, I am Lakshadeep. I like working with mobile robots. Currently, I am pursuing my PhD at [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), Faculty of Engineering, University of Southern Denmark. I work at the intersection of vision, motion and interaction for mobile robots. My research is focused on unifying the fields of navigation and manipulation on mobile manipulator robots.
+Hi, I am Lakshadeep. I like working with mobile robots. Currently, I am pursuing my PhD at [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), Faculty of Engineering, University of Southern Denmark. I work at the intersection of vision, motion and interaction for mobile robots. From the application point of view, my research is focused on unifying the fields of navigation and manipulation on mobile manipulator robots. On the scientific front, I investigate and develop methods for estimating uncertainties in the state estimates required by the mobile robots for grasping tasks.
 
 
 <!-- Getting started
