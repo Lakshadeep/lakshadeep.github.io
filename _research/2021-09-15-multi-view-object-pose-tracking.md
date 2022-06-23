@@ -21,15 +21,13 @@ The ability to track the 6D pose distribution of an object when a mobile manipul
         <td>Single view tracking</td>
     </tr>
     <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/XlpEJRcYc3Y?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&origin=http://lakshadeep.github.io"></iframe></td>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/R4sH2VdmRhA??rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&origin=http://lakshadeep.github.io"></iframe></td>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/KvWDjO2yMXY?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&origin=http://lakshadeep.github.io"></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/XlpEJRcYc3Y?autoplay=1&amp;mute=1&amp;loop=1"></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/R4sH2VdmRhA?autoplay=1&amp;mute=1&amp;loop=1"></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/KvWDjO2yMXY?autoplay=1&amp;mute=1&amp;loop=1"></iframe></td>
     </tr>
     <tr>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/CMKdoEjiFJ4?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&&origin=http://lakshadeep.github.io" ></iframe></td>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/2hCnpI_oqcs?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&&origin=http://lakshadeep.github.io" ></iframe></td>
-        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/Rzl7E-x0uDg?rel=0?version=3&autoplay=1&controls=0&showinfo=0&loop=1&&origin=http://lakshadeep.github.io" ></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/CMKdoEjiFJ4?autoplay=1&amp;mute=1&amp;loop=1" ></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/2hCnpI_oqcs?autoplay=1&amp;mute=1&amp;loop=1" ></iframe></td>
+        <td><iframe width="560" height="315" src="https://www.youtube.com/embed/Rzl7E-x0uDg?autoplay=1&amp;mute=1&amp;loop=1" ></iframe></td>
     </tr>
 </table>
-
-
