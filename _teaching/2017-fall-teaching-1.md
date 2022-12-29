@@ -1,5 +1,5 @@
 ---
-title: "Robots and Autonomous Systems - Fall 2017"
+title: "Robots and Autonomous Systems (RAS) - Fall 2017"
 collection: teaching
 type: "Bachelors course"
 permalink: /teaching/2017-fall-teaching-1

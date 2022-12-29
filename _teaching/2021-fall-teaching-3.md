@@ -1,5 +1,5 @@
 ---
-title: "Deep Neural Networks - Fall 2021"
+title: "Deep Neural Networks (DNN) - Fall 2021"
 collection: teaching
 type: "Masters course"
 permalink: /teaching/2021-fall-teaching-3

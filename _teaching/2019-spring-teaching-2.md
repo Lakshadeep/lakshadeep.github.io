@@ -1,5 +1,5 @@
 ---
-title: "Robots and Autonomous Systems - Spring 2019"
+title: "Robots and Autonomous Systems (RAS) - Spring 2019"
 collection: teaching
 type: "Bachelors course"
 permalink: /teaching/2019-spring-teaching-1
