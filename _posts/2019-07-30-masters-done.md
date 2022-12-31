@@ -1,5 +1,5 @@
 ---
-title: 'I defend my master thesis'
+title: 'I defended my master thesis'
 date: 2019-07-30
 permalink: /posts/2019/07/masters-done/
 tags:

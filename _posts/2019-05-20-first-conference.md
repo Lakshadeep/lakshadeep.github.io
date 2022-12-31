@@ -1,5 +1,5 @@
 ---
-title: 'My first conference - ICRA2019'
+title: 'My first conference - ICRA 2019'
 date: 2019-05-20
 permalink: /posts/2019/05/first-conference/
 tags:
