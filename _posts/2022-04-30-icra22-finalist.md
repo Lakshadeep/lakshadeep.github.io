@@ -9,7 +9,7 @@ tags:
   - mobile manipulation
 ---
 
-Our [ICRA 2022](https://icra2022.org/) paper "Multi-view object pose distribution tracking for pre-grasp planning on mobile robots" has been nominated as one of <b>the 3 finalist for the outstanding manipulation paper award </b> at ICRA 2022. 
+Our [ICRA 2022](https://icra2022.org/) paper ["Multi-view object pose distribution tracking for pre-grasp planning on mobile robots"](/publication/2022-03-01-icra2022) has been nominated as one of <b>the 3 finalist for the outstanding manipulation paper award </b> at ICRA 2022. 
 
 Check out this short presentation video!
 
@@ -19,3 +19,5 @@ More details about the work can be found [here](/research/2021-09-15-multi-view-
 
 <b>Recommended citation:</b>
 Naik, L., Iversen, T. M., Kramberger, A., Wilm, J., & Krüger, N. (Accepted/In press). Multi-view object pose distribution tracking for pre-grasp planning on mobile robots. In 2022 IEEE International Conference on Robotics and Automation (ICRA) IEEE.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats to the winners of the <a href="https://twitter.com/hashtag/ICRA2022?src=hash&amp;ref_src=twsrc%5Etfw">#ICRA2022</a> Outstanding Manipulation Paper Award!<br><br>Manipulation of unknown objects via contact configuration regulation<br>Doshi, Neel; Taylor, Orion; Rodriguez, Alberto<br><br>More info here: <a href="https://t.co/jFX3HD0i5D">https://t.co/jFX3HD0i5D</a> <a href="https://t.co/t6Ceud4X7C">pic.twitter.com/t6Ceud4X7C</a></p>&mdash; ICRA2023 (@ieee_ras_icra) <a href="https://twitter.com/ieee_ras_icra/status/1530194642347638790?ref_src=twsrc%5Etfw">May 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -18,26 +18,26 @@ Education
 Work experience
 ======
 * Current: PhD student
-  * [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark [academicpages template]
+  * [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
   * Duties included: Research and development of robot for cleaning cafeteria tables
   * Supervisor: Prof. Norbert Kruger, Aljaz Kramberger, Thorbjørn Mosekjær Iversen
 
-* Summer and Fall 2020: Research Assistant
-  * [SDU robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
+* Spring and Fall 2020: Research Assistant
+  * [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
   * Duties included: Research and development of drink serving and plant watering robot
   * Supervisor: Prof. Norbert Kruger, Oskar Palinko
 
-* Fall 2018, Summer 2019 and Fall 2019: Research Staff
-  * [Autonomous Systems group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+* Fall 2018, Spring 2019 and Fall 2019: Research Staff
+  * [Autonomous Systems Group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
   * Duties included: Research and development of topological navigation for indoor robots using semantic map
   * Supervisor: Prof. Erwin Prassler, Nico Huebel, Sebastian Bluemanthal, Prof. Herman Bruyninckx 
 
-* Fall 2017 and Summer 2018: Student Research Assistant
-  * [Autonomous Systems group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+* Fall 2017 and Spring 2018: Student Research Assistant
+  * [Autonomous Systems Group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
   * Duties included: Research and development of semantic mapping using OpenStreetMap for indoor robot navigation
   * Supervisor: Prof. Erwin Prassler, Nico Huebel, Sebastian Bluemanthal, Prof. Herman Bruyninckx 
 
-* Summer and Fall 2016: Project Assistant
+* Spring and Fall 2016: Project Assistant
   * National Institute of Oceanography, Goa, India
   * Duties included: Software development for autonomous marine robots
   * Supervisor: Pramod Kumar Maurya
@@ -52,6 +52,7 @@ Work experience
 Skills
 ======
 * Robotics
+  * Mobile manipulation
   * Vision
   * Navigation
   * Human-robot interaction
