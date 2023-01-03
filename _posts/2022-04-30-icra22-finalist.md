@@ -9,7 +9,7 @@ tags:
   - mobile manipulation
 ---
 
-Our [ICRA 2022](https://icra2022.org/) paper ["Multi-view object pose distribution tracking for pre-grasp planning on mobile robots"](/publication/2022-03-01-icra2022) has been nominated as one of <b>the 3 finalist for the outstanding manipulation paper award </b> at ICRA 2022. 
+Our [ICRA 2022](https://icra2022.org/) paper ["Multi-view object pose distribution tracking for pre-grasp planning on mobile robots"](/publication/2022-03-01-icra2022) is among <b>the 3 finalists for the outstanding manipulation paper award</b>. 
 
 Check out this short presentation video!
 

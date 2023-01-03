@@ -9,7 +9,9 @@ tags:
   - ReThicare
 ---
 
-The ReThicare project officially ended this year. This was my very first experience working with an interdisciplinary team comprising socialists, roboticists, and human-computer interaction researchers. 
+The ReThicare project has officially ended. 
+
+This was my very first experience working with an interdisciplinary team comprising socialists, roboticists, and human-computer interaction researchers. 
 
 It was a unique experience to set objectives and align them with each other's expectations while working with such a diverse team. I was part of the Plant Watering Robot (PWR) team wherein we developed a proof of concept to investigate the use of distributed agency on mobile care robots.
 
