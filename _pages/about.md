@@ -13,7 +13,9 @@ Hi, I am Lakshadeep. I like working with mobile robots. Currently, I am pursuing
 
 Many of the tasks performed by mobile service robots today require navigation (approaching objects) and manipulation (interacting with the objects). Navigation & manipulation are often solved sequentially as separate tasks. Ideally, the robot can use the approaching motion for the manipulation task to improve the object’s perception as well as to pre-plan the manipulation for efficient execution. In my PhD research, I am investigating how approaching motion can be used to optimize perception and planning to enable robust and efficient manipulation on mobile robots
 
-<img src="/images/phd_idea.png" alt="PhD research idea">
+<!-- <img src="/images/phd_idea.png" alt="PhD research idea"> -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fXTPPZur8pk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!-- <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/LakshadeepN?ref_src=twsrc%5Etfw">Tweets by LakshadeepN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
