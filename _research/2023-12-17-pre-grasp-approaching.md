@@ -2,6 +2,8 @@
 title: "Pre-grasp approaching on mobile robots: a pre-active layered approach"
 excerpt: "We propose a pre-active approach for determining the base pose and pre-grasp manipulator configuration to improve the time efficiency of MM."
 collection: research
+redirect_from:
+  - /pgamr/
 ---
 
 In Mobile Manipulation (MM), navigation and manipulation are generally solved as subsequent disjoint tasks. Combined optimization of navigation and manipulation costs can improve the time efficiency of MM. However, this is challenging as precise object pose estimates, which are necessary for such combined optimization, are often not available until the later stages of MM. Moreover, optimizing navigation and manipulation costs with conventional planning methods using uncertain object pose estimates can lead to failures and hence requires re-planning. Hence, in the presence of object pose uncertainty, pre-active approaches are preferred.  
