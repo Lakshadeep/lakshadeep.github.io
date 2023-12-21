@@ -2,6 +2,8 @@
 title: "Multi-view object pose distribution tracking"
 excerpt: "We developed multi-view object pose distribution tracking framework for pre-grasp planniong on mobile robots"
 collection: research
+redirect_from:
+  - /mvopdt/
 ---
 
 The ability to track the 6D pose distribution of an object when a mobile manipulator robot is still approaching the object can enable the robot to pre-plan grasps that combine base and arm motion. However, tracking a 6D object pose distribution from a distance can be challenging due to the limited view of the robot camera. In this work, we present a framework that fuses observations from external stationary cameras with a moving robot camera and sequentially tracks it in time to enable 6D object pose distribution tracking from a distance. We model the object pose posterior as a multi-modal distribution which results in a better performance against uncertainties introduced by large camera-object distance, occlusions and object geometry.
