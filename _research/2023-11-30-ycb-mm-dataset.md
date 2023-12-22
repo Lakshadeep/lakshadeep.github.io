@@ -6,7 +6,12 @@ redirect_from:
   - /mymm/
 ---
 
-<b>Download link and usage details coming soon. </b>
+<b>[Download link](https://nextcloud.sdu.dk/index.php/s/7bGExceYjZ3sG6H)</b>
+<br>
+Password: zFpXLWbtzg
+<br>
+Usage details coming soon ...
+<br>
 
 
 Today, mobile manipulation is performed in a sequential manner—first navigation and then manipulation—since accurate object pose estimates, crucial for planning manipulation, are only available when the robot is in close proximity to objects. If accurate object pose estimates can be made available while the robot is still navigating towards the object, it can already begin making manipulation decisions. This has the potential to enhance the time efficiency of mobile manipulation. Hence, it is necessary to benchmark how well object poses can be estimated while the robot is still navigating towards the object.
