@@ -5,7 +5,7 @@ permalink: /posts/2022/12/end-of-rethicare/
 tags:
   - SDU
   - SDU Robotics
-  - Wefare Robotics
+  - Welfare Robotics
   - ReThicare
 ---
 

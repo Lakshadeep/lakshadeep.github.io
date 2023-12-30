@@ -1,6 +1,6 @@
 ---
 title: "Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM)"
-excerpt: "We released a Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM) with views of the objects from the robot's eye-in-hand and external cameras in the environment."
+excerpt: "We release a Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM) with views of the objects from the robot's eye-in-hand and external cameras in the environment."
 collection: research
 redirect_from:
   - /mymm/

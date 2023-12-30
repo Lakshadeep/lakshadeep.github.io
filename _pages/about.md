@@ -11,11 +11,17 @@ redirect_from:
 
 Hi, I am Lakshadeep. I like working with mobile robots. Currently, I am pursuing my PhD at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), Faculty of Engineering, University of Southern Denmark. I work at the intersection of vision, motion, and interaction for mobile robots.
 
-Many of the tasks performed by mobile service robots today require navigation (approaching objects) and manipulation (interacting with the objects). Navigation & manipulation are often solved sequentially as separate tasks. Ideally, the robot can use the approaching motion for the manipulation task to improve the object’s perception as well as to pre-plan the manipulation for efficient execution. In my PhD research, I am investigating how approaching motion can be used to optimize perception and planning to enable robust and efficient manipulation on mobile robots
+Many tasks performed by mobile service robots today involve navigation (approaching objects) and manipulation (interacting with objects). Navigation and manipulation are often addressed sequentially as separate tasks. Planning manipulation while navigating towards the object can enhance the time-efficiency of mobile manipulation. 
+
+In my PhD research, I am investigating ways to enhance the time-efficiency of mobile manipulation by strategically planning manipulation actions while navigating towards the target object.
+
 
 <!-- <img src="/images/phd_idea.png" alt="PhD research idea"> -->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fXTPPZur8pk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/fXTPPZur8pk?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Of52KpMgrw?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 <!-- <a class="twitter-timeline" data-width="500" data-height="400" href="https://twitter.com/LakshadeepN?ref_src=twsrc%5Etfw">Tweets by LakshadeepN</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 

@@ -28,12 +28,12 @@ Work experience
   * Supervisor: Prof. Dr. Norbert Kruger
 
 * Fall 2018, Spring 2019 and Fall 2019: Research Staff
-  * [Autonomous Systems Group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+  * [Autonomous Systems Group](https://a2s-institute.de/), Hochschule Bonn Rhein Sieg, Germany
   * Duties included: Research and development of topological navigation for indoor robots using semantic map
   * Supervisor: Prof. Dr. Erwin Prassler
 
 * Fall 2017 and Spring 2018: Student Research Assistant
-  * [Autonomous Systems Group](https://mas-group.inf.h-brs.de/), Hochschule Bonn Rhein Sieg, Germany
+  * [Autonomous Systems Group](https://a2s-institute.de/), Hochschule Bonn Rhein Sieg, Germany
   * Duties included: Research and development of semantic mapping using OpenStreetMap for indoor robot navigation
   * Supervisor: Prof Dr. Erwin Prassler
 
@@ -84,7 +84,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
   
-<!-- Service and leadership
+Reviewer activities
 ======
-* Currently signed in to 43 different slack teams -->
+* IEEE Robotics and Automation Letters (RA-L)
+* IEEE International Conference on Intelligent Robots and Systems (IROS)
+* IEEE International Conference on Robot and Human Interactive Communication (ROMAN)
+* IEEE International Conference on Automation Science and Engineering (CASE)
+* Springer Multimedia Tools and Applications Journal (MTAP)
