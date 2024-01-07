@@ -13,7 +13,7 @@ The FacilityCobot project has officially ended. This was my very first experienc
 
 In this project our research focused on improving time-efficiency of Mobile Manipulation while reducing failures. More details about our research can be found on below links:
 
-[Multi-view object pose distribution tracking](/2021-09-15-multi-view-object-pose-tracking/)
+[Multi-view object pose distribution tracking](/research/2021-09-15-multi-view-object-pose-tracking/)
 
 [Pre-grasp approaching](/research/2023-12-17-pre-grasp-approaching/)
 
