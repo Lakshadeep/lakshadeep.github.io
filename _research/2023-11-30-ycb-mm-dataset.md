@@ -1,23 +1,20 @@
 ---
-title: "Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM)"
-excerpt: "We release a Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM) with views of the objects from the robot's eye-in-hand and external cameras in the environment."
+title: "Multi-view YCB object pose tracking dataset for Mobile Manipulation"
+excerpt: "We released a Multi-view YCB object pose tracking dataset for Mobile Manipulation (MY-MM) with views of the objects from the robot's eye-in-hand and external cameras in the environment."
 collection: research
 redirect_from:
   - /mymm/
+hashtags: "#6D pose tracking dataset #mobile manipulation"
+icon_url: '/images/mymm-dataset.jpg'
+tags:
+  - 6D pose tracking dataset
+  - Mobile Manipulation
 ---
 
-<b>[Download link](https://nextcloud.sdu.dk/index.php/s/7bGExceYjZ3sG6H)</b>
-<br>
-Password: zFpXLWbtzg
-<br>
-Usage details coming soon ...
-<br>
-
-
 Today, mobile manipulation is performed in a sequential manner—first navigation and then manipulation—since accurate object pose estimates, crucial for planning manipulation, are only available when the robot is in close proximity to objects. If accurate object pose estimates can be made available while the robot is still navigating towards the object, it can already begin making manipulation decisions. This has the potential to enhance the time efficiency of mobile manipulation. Hence, it is necessary to benchmark how well object poses can be estimated while the robot is still navigating towards the object.
+
+
 <br>
-
-
 <iframe src="https://www.youtube.com/embed/h5z4iLnnCkk?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=h5z4iLnnCkk&amp;controls=0"></iframe>
 
 <br>
@@ -40,4 +37,11 @@ The dataset consists of 100 sequences featuring 10 different YCB objects with di
 
 <iframe src="https://www.youtube.com/embed/K0-RsRDUglI?autoplay=1&amp;mute=1&amp;loop=1&amp;playlist=K0-RsRDUglI&amp;controls=0"></iframe>
 
+<br>
 
+<b>[Download link](https://nextcloud.sdu.dk/index.php/s/7bGExceYjZ3sG6H)</b>
+Password: zFpXLWbtzg
+
+<i>Usage details coming soon ...</i>
+
+This research was supported by the <b>Innovation Fund Denmark</b> in the context of the <b>FacilityCobot</b> project.

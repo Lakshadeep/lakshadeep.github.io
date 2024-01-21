@@ -8,8 +8,8 @@ tags:
   - Helsinki
 ---
 
-I am in Helsinki, Finland to attend [Nordic Probabilistic AI Summer School](https://probabilistic.ai/). 
+I attended [Nordic Probabilistic AI Summer School](https://probabilistic.ai/) in Helsinki, Finland.
 
-The school focuses on Probabilistic Machine Learning with a focus on variational approximations, deep generative models, latent variable models, normalizing flows, neural ODEs, probabilistic programming etc.
+The primary emphasis of this school was on Probabilistic Machine Learning, with a focus on topics such as variational approximations, deep generative models, latent variable models, normalizing flows, neural ODEs, and probabilistic programming.
 
 <img src="/images/probai2022.jpg" width="800px" alt="ProbAI 2022">

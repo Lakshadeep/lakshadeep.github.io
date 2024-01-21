@@ -7,4 +7,4 @@ tags:
   - Odense
 ---
 
-I moved to Odense, Denmark and joined the [SDU Robotics group]((https://www.sdu.dk/en/forskning/sdurobotics)). I will be working on the [SMOOTH](http://smooth-robot.dk/) and [RethiCare](http://www.rethicare.info/) projects.
+I moved to Odense, Denmark and joined the [SDU Robotics group]((https://www.sdu.dk/en/forskning/sdurobotics)). To begin with, I will be working on the [SMOOTH](http://smooth-robot.dk/) and [RethiCare](http://www.rethicare.info/) projects.

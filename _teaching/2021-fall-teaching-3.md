@@ -7,9 +7,9 @@ venue: "Faculty of Engineering, University of Southern Denmark, SDU"
 date: 2021-09-05
 location: "Odense, Denmark"
 ---
-with Assc. Prof. Dr. Anders Buch
+<b>Course incharge:</b> Assc. Prof. Dr. Anders Buch
 
-My role: Tutor, responsible for conducting 10 exercise sessions. Each session 
+<b>My role:</b> Tutor, responsible for conducting 10 exercise sessions. Each session 
 involved introducing a problem related to the deep learning concept introduced 
 earlier in the class and then assisting students in solving those exercises.
 

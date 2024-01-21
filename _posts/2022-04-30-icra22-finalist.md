@@ -4,7 +4,7 @@ date: 2022-04-30
 permalink: /posts/2022/04/icra22-finalist/
 tags:
   - ICRA 2022
-  - uncertainty
+  - uncertainty estimation
   - 6D pose tracking
   - mobile manipulation
 ---

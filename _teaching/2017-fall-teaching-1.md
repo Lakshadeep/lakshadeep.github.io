@@ -7,16 +7,7 @@ venue: "Department of Computer Science, Hochschule Bonn Rhein Sieg"
 date: 2017-10-01
 location: "Sankt Augustin, Germany"
 ---
-with Prof. Dr. Erwin Prassler
+<b>Course incharge:</b> Prof. Dr. Erwin Prassler
 
-My role: Teaching Assistant, responsible for students project supervisions. 
+<b>My role:</b> Teaching Assistant, responsible for students project supervisions. 
 Introduction to robotics projects using Lego NXT kits.
-
-<!-- Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-====== -->

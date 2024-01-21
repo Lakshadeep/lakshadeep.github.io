@@ -7,4 +7,4 @@ tags:
   - MAS
 ---
 
-I successfully defended my master thesis titled "Semantic localization and navigation using OpenStreetMap"
+I successfully defended my master thesis titled "Semantic localization and navigation using OpenStreetMap".

@@ -6,7 +6,7 @@ tags:
   - ICRA2019
 ---
 
-I am in Montreal, Canada to attend my very first academic conference - ICRA 2019.
+I am in Montreal, Canada to attend my very first academic conference - ICRA 2019. I will be presenting our work on [Semantic mapping extension for OpenStreetMap applied to indoor robot navigation](/publication/2019-05-20-icra2019) 
 
 <img src="/images/icra-2019.jpeg" width="600px" alt="ICRA 2019">
 
