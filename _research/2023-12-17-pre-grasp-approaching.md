@@ -17,9 +17,9 @@ In Mobile Manipulation (MM), navigation and manipulation are generally solved as
 <b>Proposed solution:</b>
 We propose a pre-active approach for determining the base pose and pre-grasp manipulator configuration to improve the time efficiency of MM. We devise a Reinforcement Learning (RL) based solution that learns suitable base poses for grasping and pre-grasp manipulator configurations using layered learning that guides exploration and enables sample-efficient learning. Further, we accelerate learning of pre-grasp manipulator configurations by providing dense rewards using a predictor network trained on previously learned base poses for grasping. 
 
-<b>See our [RA-L paper](/publication/2024-01-08-ral) for more details.</b>
+<b>See our [RA-L paper](/publication/2024-01-08-ral) for more details. [Download pre-print](https://portal.findresearcher.sdu.dk/files/253491726/RAL24-pre-grasp-approaching.pdf)</b>
 
-<b>Code: [Github link](https://github.com/Lakshadeep/pre-grasp-approaching)</b> (Coming soon)
+<b>Code: [Github link](https://github.com/Lakshadeep/pre-grasp-approaching)</b>
 
 <b>Supplementary Video for the RAL paper:</b>
 
