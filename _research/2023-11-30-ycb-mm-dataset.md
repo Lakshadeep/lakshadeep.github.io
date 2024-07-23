@@ -39,9 +39,8 @@ The dataset consists of 100 sequences featuring 10 different YCB objects with di
 
 <br>
 
-<b>[Download link](https://nextcloud.sdu.dk/index.php/s/7bGExceYjZ3sG6H)</b>
-Password: zFpXLWbtzg
+<b>[Download link](https://nextcloud.sdu.dk/index.php/s/eQitCanx9ztLZwg)</b>
+<b>[Github](https://github.com/Lakshadeep/mymm-utils)</b>
 
-<i>Usage details coming soon ...</i>
 
 This research was supported by the <b>Innovation Fund Denmark</b> in the context of the <b>FacilityCobot</b> project.
