@@ -13,11 +13,16 @@ Education
 ======
 * B.Tech. in Electronics and Communication Engineering, National Institute of Technology, Goa, India, 2015
 * M.S. in Autonomous Systems, Hochschule Bonn Rhein Sieg, Germany, 2019
-* Ph.D in Smooth and efficient manipulation on mobile robots using temporal integration, University of Southern Denmark, 2024 (expected)
+* Ph.D in Pre-grasp planning for time-efficient and robust mobile manipulation, University of Southern Denmark, 2024
 
 Work experience
 ======
-* Current: PhD student
+* Current: Research Assistant/ PostDoc
+  * [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
+  * Duties included: Part of the Fluently Project
+  * Supervisor: Prof. Dr. Norbert Kruger
+
+* April 2021-June 2024: PhD student
   * [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
   * Duties included: Research and development of robot for cleaning cafeteria tables
   * Supervisor: Prof. Dr. Norbert Kruger
