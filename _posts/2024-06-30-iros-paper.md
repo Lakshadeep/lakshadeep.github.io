@@ -10,7 +10,7 @@ tags:
   - base pose for grasping
 ---
 
-Our paper on base pose sequence planning for pickup tasks has been accepted at IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 2024.
+Our paper ["BaSeNet "](/publication/2024-06-30-iros) is among <b>the 3 finalists for the outstanding manipulation paper award</b>. 
 
 
 <b>More details about our work can be found [here](/basenet/)</b>
