@@ -10,7 +10,7 @@ tags:
   - base pose for grasping
 ---
 
-Our paper ["BaSeNet "](/publication/2024-06-30-iros) is among <b>the 3 finalists for the outstanding manipulation paper award</b>. 
+Our paper ["BaSeNet "](/publication/2024-06-30-iros) has been accepted for publication in 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 
 <b>More details about our work can be found [here](/basenet/)</b>
