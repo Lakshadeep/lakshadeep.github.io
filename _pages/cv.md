@@ -17,7 +17,12 @@ Education
 
 Work experience
 ======
-* Current: Research Assistant/ PostDoc
+* Current: PostDoc
+  * [Division of Robotics, Perception and Learning (RPL)](https://www.kth.se/is/rpl), KTH Royal Institute of Technology, Stockholm, Sweden
+  * Duties included: Research in Mobile Manipulation and Robot Learning, Teaching in Reinforcement Learning
+  * Supervisor: Prof. Dr. Danica Kragic
+
+* July 2021-December 2024: Research Assistant/ PostDoc
   * [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), MMMI, University of Southern Denmark, Odense, Denmark
   * Duties included: Part of the Fluently Project
   * Supervisor: Prof. Dr. Norbert Kruger
