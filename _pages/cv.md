@@ -99,7 +99,7 @@ Teaching
 Reviewer activities
 ======
 * IEEE Robotics and Automation Letters (RA-L)
-* IEEE International Conference on Intelligent Robots and Systems (IROS)
+* IEEE International Conference on Robotics and Automation (ICRA)
+* IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 * IEEE International Conference on Robot and Human Interactive Communication (ROMAN)
 * IEEE International Conference on Automation Science and Engineering (CASE)
-* Springer Multimedia Tools and Applications Journal (MTAP)
