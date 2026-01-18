@@ -13,6 +13,5 @@ Hi, I am Lakshadeep. Currently, I am a postdoctoral researcher in [Division of R
 My research focuses on robot learning for mobile manipulation, using reinforcement learning and behavior cloning. I am particularly interested in
 * using whole-body motion to improve perception and planning
 * identifying suitable indoor scene representations for learning mobile manipulation tasks.
-More details about my research can be found here.
 
 Previously, I completed my PhD at [SDU Robotics](https://www.sdu.dk/en/forskning/sdurobotics), Faculty of Engineering, University of Southern Denmark with [Professor Norbert Krueger](https://portal.findresearcher.sdu.dk/en/persons/norbert). During my PhD, I focused on perception and planning for mobile manipulation. 
